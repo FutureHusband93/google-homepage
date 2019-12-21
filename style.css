@@ -1,9 +1,21 @@
 ul {
 	list-style-type: none;
-	margin: 0;
+	margin: 30px;
 	padding: 0;
-}
+	}
 
 li {
 	display: inline;
-}
+	}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-top: 150px;
+	margin-right: auto;
+	width: 14.5%;
+	}
+	
+form {
+	text-align: center;
+	}
