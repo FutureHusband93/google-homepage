@@ -43,7 +43,29 @@ input:focus, textarea {
 	background: #f5f5f5
 	}
 	
-textarea:focus {
-	box-shadow: 5px;
+a {
+color: black;
+text-decoration: none;
+padding: 10px;
+}
+
+header {
+	position: top;
+	font-family: Sans-serif;
 	}
 
+footer {
+	background-color: #f5f5f5;
+	padding: 17px;
+	font-family: Sans-serif;
+	}
+	
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	}
+	
+#page-container {
+position: relative;
+}
