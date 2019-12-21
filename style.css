@@ -13,9 +13,17 @@ li {
 	margin-left: auto;
 	margin-top: 150px;
 	margin-right: auto;
+	margin-bottom: 10px;
 	width: 14.5%;
 	}
 	
 form {
 	text-align: center;
+	}
+	
+input {
+	width: 29%;
+	padding: 15px;
+	border-radius: 50px;
+	border: 1px #dddddd solid;
 	}
